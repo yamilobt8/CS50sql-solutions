@@ -1,0 +1,1 @@
+select bats from players where first_name || ' ' || last_name == 'Babe Ruth';

@@ -1,0 +1,1 @@
+select title, episode_in_season, season from episodes where episode_in_season == 1 and season == 1 or season == 5;

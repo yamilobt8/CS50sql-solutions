@@ -1,0 +1,1 @@
+select round(avg(brightness), 2) as 'average brightness' from views where artist == 'Hokusai' order by entropy asc;

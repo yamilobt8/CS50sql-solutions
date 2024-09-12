@@ -1,0 +1,1 @@
+select count(*) from players where (throws == 'L' and bats == 'R') or (throws == 'R' and bats == 'L');

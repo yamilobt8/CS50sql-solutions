@@ -1,0 +1,1 @@
+select english_title, artist from views where brightness == (select max(brightness) from views);

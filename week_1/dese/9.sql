@@ -1,0 +1,1 @@
+select name from districts where id = (select district_id from expenditures group by pupils limit 1);
