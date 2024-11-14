@@ -3,7 +3,6 @@ Design Document
 By YOUR NAME HERE: Khalid Azaanoun
 
 Video overview: https://youtu.be/YmcN8SberAc
-Scope
 
     What is the purpose of your database?
         Manage financial accounts and transactions.
